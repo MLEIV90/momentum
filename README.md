@@ -35,9 +35,9 @@ Python (pandas, numpy, matplotlib, scipy, statsmodels, arch, yfinance)
 python -m pip install -r requirements.txt
 ```
 ## Ejecución recomendada
-python build_dataset.py
-python main.py
-python analysis/run_risk_analysis.py
-python analysis/run_capm_analysis.py
-python analysis/run_garch_analysis.py
-python analysis/run_optimization_analysis.py
+- python build_dataset.py
+- python main.py
+- python analysis/run_risk_analysis.py
+- python analysis/run_capm_analysis.py
+- python analysis/run_garch_analysis.py
+- python analysis/run_optimization_analysis.py
