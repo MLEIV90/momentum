@@ -1,7 +1,9 @@
 # Momentum ETF Strategy – Backtesting & Risk Analysis
 
 Proyecto de análisis financiero enfocado en el desarrollo y evaluación de estrategias de inversión basadas en momentum sectorial sobre ETFs del mercado estadounidense.
+
 Incluye backtesting histórico (2005–2025), análisis de performance y modelización de riesgo utilizando métricas como VaR, Expected Shortfall y modelos GARCH.
+
 El objetivo es evaluar la viabilidad de estrategias cuantitativas basadas en momentum y analizar su perfil riesgo-retorno en distintos escenarios de mercado.
 
 ## Funcionalidades principales
