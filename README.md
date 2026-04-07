@@ -16,7 +16,7 @@ El objetivo es evaluar la viabilidad de estrategias cuantitativas basadas en mom
 
 ## Tecnologías utilizadas
 
-Python (pandas, numpy, matplotlib, scipy, statsmodels, arch)
+Python (pandas, numpy, matplotlib, scipy, statsmodels, arch, yfinance)
 
 ## Documentación
 
