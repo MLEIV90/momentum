@@ -30,6 +30,8 @@ Python (pandas, numpy, matplotlib, scipy, statsmodels, arch, yfinance)
 - `analysis/`: runners por capítulo (ejecutan análisis específicos y exportan tablas/gráficos)
 
 ## Instalación
+
+```bash
 python -m pip install -r requirements.txt
 
 ## Ejecución recomendada
